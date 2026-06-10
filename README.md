@@ -110,7 +110,6 @@ Total Bill: $800.0
 ## 👨‍💻 Author
 
 **Ankush Kumar**  
-@BOT9315
 AI / Machine Learning Developer
 
 
