@@ -109,4 +109,9 @@ Total Bill: $800.0
 
 ## 👨‍💻 Author
 
+**Ankush Kumar**  
+@BOT9315
+AI / Machine Learning Developer
+
+
 Made with ❤️ as part of a Python OOP learning exercise.
