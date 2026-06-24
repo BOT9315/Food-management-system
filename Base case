@@ -1,1 +1,8 @@
-
+food_order/
+│
+├── main.py            # Entry point – runs the program
+├── utils.py           # Shared data: menu and order storage
+├── show_menu.py       # Displays the food menu
+├── add_food_item.py   # Adds selected item to the order
+├── show_food_item.py  # Shows current order
+└── total_bill.py      # Calculates and prints the bill
