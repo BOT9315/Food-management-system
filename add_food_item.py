@@ -7,7 +7,6 @@ def add_food_item(item_id, quantity):
 
     name = menu[item_id]['name']
     price = menu[item_id]['price']
-    
     if name in food_items:
         food_items[name]['quantity'] += quantity
     else:
